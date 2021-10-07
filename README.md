@@ -1,2 +1,2 @@
-# petralfimov.github.io
+# Пётр Алфимов
 Мой первый сайт
